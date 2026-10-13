@@ -9,7 +9,7 @@ LyricBinder turns lyrics you already wrote — a Markdown file, or a Google Doc 
 into a live, auto-scrolling display that follows your session's playhead. Map
 each section to a bar, hit play, and the words keep pace with the music.
 
-[**⬇ Download the latest beta**](https://github.com/ttpenguins/LyricBinder-releases/releases/latest) &nbsp;·&nbsp; [Install guide](#-installing-the-beta) &nbsp;·&nbsp; [Features](#-features)
+[**⬇ Download the latest beta**](https://github.com/leftonmarket/LyricBinder-releases/releases/latest) &nbsp;·&nbsp; [Install guide](#-installing-the-beta) &nbsp;·&nbsp; [Features](#-features)
 
 <!-- Hero shot: the Singer view scrolling during playback is the strongest first impression. -->
 <img src="assets/hero.png" alt="LyricBinder following playback in a DAW" width="820">
@@ -110,7 +110,7 @@ app — no security workarounds needed.
 (Logic Pro, GarageBand). *Windows and AAX are not in this beta.*
 
 1. Download **`LyricBinder_<version>.pkg`** from the
-   [latest release](https://github.com/ttpenguins/LyricBinder-releases/releases/latest).
+   [latest release](https://github.com/leftonmarket/LyricBinder-releases/releases/latest).
 2. Double-click it and follow the prompts. You'll be asked to authenticate, since
    the plugin installs to a system folder.
 3. Rescan plugins in your DAW and add **LyricBinder** on any track (i.e. Lead Vocal).
